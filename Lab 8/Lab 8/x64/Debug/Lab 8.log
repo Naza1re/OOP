@@ -1,0 +1,10 @@
+﻿  Lab 8.cpp
+C:\Users\mcari\source\repos\Lab 8\Lab 8\Header.h(45,35): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\mcari\source\repos\Lab 8\Lab 8\Header.h(39): message : во время компиляции функции-члена класс шаблон "Matrix<int> Matrix<int>::matrix_by_number(float)"
+C:\Users\mcari\source\repos\Lab 8\Lab 8\Lab 8.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<int> Matrix<int>::matrix_by_number(float)"
+C:\Users\mcari\source\repos\Lab 8\Lab 8\Lab 8.cpp(5): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<int>"
+  Lab 8.vcxproj -> C:\Users\mcari\source\repos\Lab 8\x64\Debug\Lab 8.exe
